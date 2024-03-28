@@ -78,6 +78,7 @@ body {
 .header .last-name {
     /* 字体细体 */
     font-weight: 300;
+    font-size: 30px;
 }
 
 /* 联系信息样式 */
